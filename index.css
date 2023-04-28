@@ -1,0 +1,442 @@
+@keyframes x{
+   0%{
+    position:relative;
+    left:-100px;
+   }
+   
+   50%{
+    position:relative;
+    left:25px;
+   }
+   100%{
+    position:relative;
+    left:-100px;
+   }
+   
+}
+#a{
+    background-color: white;
+   
+}
+#b{
+list-style-type: none;
+overflow:auto;
+}
+#c{
+    background-color: white;
+    height:50px;
+    width: 70px;
+    float:left;
+    margin:4px;
+    position:relative;
+    left:100px;
+}
+#d{
+   font-size: 38px;
+   float:left;
+   position:relative;
+   left:100px;
+   margin:4px;
+}
+#e{
+    font-size:12px ;
+    color:skyblue;
+    float:left;
+    position:relative;
+    left:100px;
+}
+#f{
+    color:skyblue;
+    position: relative;
+    top:15px;
+    left:200px;
+    border:2px solid black;
+    border-radius:5px;
+    float:left;
+}
+::placeholder{
+    color:skyblue;
+}
+#g{
+    background-color: white;
+    height:50px;
+    width: 70px;
+    float:left;
+    position: relative;
+    left:270px;
+    margin:4px; 
+}
+#h{
+    background-color: white;
+    height:50px;
+    width: 70px;
+    float:left;
+    position: relative;
+    left:270px;
+    margin:4px;  
+}
+#i{
+    background-color: white;
+    height:60px;
+    width: 70px;
+    float:left;
+    position: relative;
+    left:270px;
+    bottom:5px;
+    
+    margin:4px; 
+}
+#j{
+    background-color: white;
+    height:100px;
+    width: 70px;
+    float:left;
+    position: relative;
+    left:270px;
+    bottom:25px;
+    
+    margin:4px; 
+}
+#k{
+    background-color: white;
+    height:70px;
+    width: 70px;
+    float:left;
+    position: relative;
+    left:270px;
+    bottom:13px;
+    
+    margin:4px; 
+}
+#l{
+    background-color: white;
+    font-size: 20px;
+    height:40px;
+    width: 80px;
+    float:left;
+    position: relative;
+    left:280px;
+    top:2px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: skyblue;
+    
+    
+    margin:4px; 
+}
+#m{
+    background-color: white;
+    font-size: 20px;
+    height:40px;
+    width: 80px;
+    float:left;
+    position: relative;
+    left:280px;
+    top:2px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: skyblue;
+    
+    
+    margin:4px; 
+}
+#n{
+    background-color: white;
+    height:70px;
+    width: 70px;
+    float:left;
+    position: relative;
+    left:275px;
+    bottom:13px;
+    
+    margin:4px; 
+}
+#o{
+    position: relative;
+    bottom:60px;  
+}
+#q{
+    font-size: 100px;
+    position:relative;
+    left:100px;
+    color:skyblue;
+}
+#r{
+    font-size: 100px;
+    position:relative;
+    left:100px;
+    bottom:80px;
+    color:blue;
+}
+#s{
+    font-size: 100px;
+    position:relative;
+    left:100px;
+    bottom:150px;
+    color:blueviolet;
+}
+#t{
+    position: relative;
+    left:900px;
+    bottom:650px;
+    height:200px;
+    width:150px;
+    float:left;
+}
+#t:hover{
+    position: relative;
+   
+    bottom:660px; 
+}
+#u{
+    position: relative;
+    left:910px;
+    bottom:650px;
+    height:200px;
+    width:150px;
+    float:left;
+}
+#u:hover{
+    position: relative;
+   
+    bottom:660px; 
+}
+#v{
+    position: relative;
+    left:920px;
+    bottom:650px;
+    height:200px;
+    width:150px;
+    
+}
+#v:hover{
+    position: relative;
+   
+    bottom:660px; 
+}
+#w{
+    position: relative;
+    left:900px;
+    bottom:640px;
+    height:200px;
+    width:150px;
+    float:left;
+    
+}
+#w:hover{
+    position: relative;
+   
+    bottom:650px; 
+}
+#x{
+    position: relative;
+    left:910px;
+    bottom:640px;
+    height:200px;
+    width:150px;
+    float:left;
+    
+}
+#x:hover{
+    position: relative;
+   
+    bottom:650px; 
+}
+#y{
+    position: relative;
+    left:920px;
+    bottom:640px;
+    height:200px;
+    width:150px;
+}
+#y:hover{
+    position: relative;
+   
+    bottom:650px; 
+}
+.z{
+border-bottom-style: solid;
+width:450px;
+
+color:red;
+position:relative;
+bottom:650px;
+left:100px;
+
+}
+#ab{
+position:relative;
+bottom:600px;
+}
+#a2{
+    font-size:50px;
+    color:skyblue;
+    position:relative;
+    bottom:625px;
+}
+#a3{
+    font-size:60px;
+    color:red;
+    position:relative;
+    bottom:750px;
+float:left;
+}
+#a4{
+    background-color: white;
+    height:120px;
+    width: 100px;
+    float:left;
+    position: relative;
+    left:250px;
+    bottom:750px;
+    
+    margin:4px; 
+}
+#a5{
+    background-color: white;
+    height:100px;
+    width: 100px;
+    float:left;
+    position: relative;
+    left:270px;
+    bottom:740px;
+    
+    margin:4px; 
+}
+#a6{
+    background-color: white;
+    height:100px;
+    width: 100px;
+    float:left;
+    position: relative;
+    left:290px;
+    bottom:740px;
+    
+    margin:4px; 
+}
+#a7{
+    background-color: white;
+    height:95px;
+    width: 100px;
+    float:left;
+    position: relative;
+    left:310px;
+    bottom:740px;
+    
+    margin:4px; 
+}
+#a8{
+    background-color: white;
+    height:95px;
+    width: 100px;
+    float:left;
+    position: relative;
+    left:330px;
+    bottom:740px;
+    
+    margin:4px; 
+}
+#a9{
+    background-color: white;
+    height:95px;
+    width: 100px;
+    float:left;
+    position: relative;
+    left:350px;
+    bottom:740px;
+    
+    margin:4px;  
+}
+#a10{
+    background-color: white;
+    height:80px;
+    width: 120px;
+    float:left;
+    position: relative;
+    left:370px;
+    bottom:730px;
+    
+    margin:4px;  
+}
+#a11{
+    background-color: white;
+    height:110px;
+    width: 100px;
+    
+    position: relative;
+    left:390px;
+    bottom:763px;
+    
+    margin:4px;  
+}
+#a12{
+    list-style-type: none;
+    animation-name:x;
+    animation-duration:5s;
+    animation-iteration-count: infinite;
+    
+}
+#a13{
+    height:0.0001px;
+    color:black;
+    width:100%;
+    position:relative;
+    bottom:790px;
+
+}
+#a16{
+    height:350px;
+    width:350px;
+    position:relative;
+    left:80px;
+    bottom:750px;
+    float:left;
+    
+}
+#a16:hover{
+    position: relative;
+   
+    bottom:780px; 
+}
+#a17{
+    height:350px;
+    width:350px;
+    position:relative;
+    left:180px;
+    bottom:750px;
+    float:left;
+}
+#a17:hover{
+    position: relative;
+   
+    bottom:780px; 
+}
+#a18{
+    height:350px;
+    width:350px;
+    position:relative;
+    left:280px;
+    bottom:750px;
+    
+}
+#a18:hover{
+    position: relative;
+   
+    bottom:780px; 
+}
+#a15{
+    list-style-type: none;
+}
+#a20{
+    width:100%;
+    height:auto;
+    position:relative;
+    bottom:680px;
+}
+
+
+
+
+
+
+
